@@ -1,0 +1,19 @@
+[
+  { "name": "Bench press", "group": "chest", "videoUrl": "" },
+  { "name": "Incline dumbbell press", "group": "chest", "videoUrl": "" },
+  { "name": "Cable fly", "group": "chest", "videoUrl": "" },
+  { "name": "Lat pulldown", "group": "back", "videoUrl": "" },
+  { "name": "Seated row", "group": "back", "videoUrl": "" },
+  { "name": "One-arm dumbbell row", "group": "back", "videoUrl": "" },
+  { "name": "Shoulder press", "group": "shoulders", "videoUrl": "" },
+  { "name": "Lateral raise", "group": "shoulders", "videoUrl": "" },
+  { "name": "Face pull", "group": "shoulders", "videoUrl": "" },
+  { "name": "Triceps pushdown", "group": "triceps", "videoUrl": "" },
+  { "name": "Overhead triceps extension", "group": "triceps", "videoUrl": "" },
+  { "name": "Barbell curl", "group": "biceps", "videoUrl": "" },
+  { "name": "Hammer curl", "group": "biceps", "videoUrl": "" },
+  { "name": "Squat", "group": "legs", "videoUrl": "" },
+  { "name": "Leg press", "group": "legs", "videoUrl": "" },
+  { "name": "Romanian deadlift", "group": "legs", "videoUrl": "" },
+  { "name": "Leg curl", "group": "legs", "videoUrl": "" }
+]

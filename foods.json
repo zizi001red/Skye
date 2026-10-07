@@ -1,0 +1,8 @@
+[
+  { "name": "Roti", "portion": "1 roti", "calories": 100, "proteinG": 3 },
+  { "name": "Dal", "portion": "1 bowl", "calories": 180, "proteinG": 10 },
+  { "name": "Paneer", "portion": "100g", "calories": 265, "proteinG": 18 },
+  { "name": "Chicken breast", "portion": "150g", "calories": 250, "proteinG": 45 },
+  { "name": "Eggs", "portion": "2 eggs", "calories": 140, "proteinG": 12 },
+  { "name": "Curd", "portion": "1 bowl", "calories": 100, "proteinG": 6 }
+]
